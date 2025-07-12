@@ -7,4 +7,4 @@
 <img src="http://mazandi.herokuapp.com/api?handle=seunggialt&theme=warm"/>
 
 ## 블로그
-  + [백준](https://achieved-hydrant-045.notion.site/Seunggialt-PS-221539d0afc18085bd58e1ae34a56504)
+  + [블로그](https://achieved-hydrant-045.notion.site/Seunggialt-PS-221539d0afc18085bd58e1ae34a56504)
