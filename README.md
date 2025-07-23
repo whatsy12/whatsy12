@@ -7,4 +7,4 @@
 
 
 ## 블로그
-  + [블로그](https://achieved-hydrant-045.notion.site/Seunggialt-PS-221539d0afc18085bd58e1ae34a56504)
+  + [블로그](https://whatsy12.github.io/)
